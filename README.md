@@ -16,4 +16,4 @@ These wordlists are built to minimize noise, maximize efficiency, and cover crit
 
 ## 🚀 Usage
 
-These files are designed to be lightweight enough to plug directly into your daily automation pipelines and security tools:
+These files are designed to be lightweight enough to plug directly into your daily automation pipelines and security tools.
